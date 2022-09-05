@@ -125,6 +125,7 @@
 * [linuxserver/radarr](images/docker-radarr.md)
 * [linuxserver/raneto](images/docker-raneto.md)
 * [linuxserver/rdesktop](images/docker-rdesktop.md)
+* [linuxserver/readarr](images/docker-readarr.md)
 * [linuxserver/remmina](images/docker-remmina.md)
 * [linuxserver/resilio-sync](images/docker-resilio-sync.md)
 * [linuxserver/rsnapshot](images/docker-rsnapshot.md)
